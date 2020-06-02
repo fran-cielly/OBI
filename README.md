@@ -7,7 +7,7 @@ Site da prova: https://olimpiada.ic.unicamp.br/
   - #### Nível 2
     - Fase 1
       - [ ] Câmara de compensação
-      - [ ] Figurinhas da copa
+      - [x] Figurinhas da copa
       - [ ] Piso da escola
     - Fase 1
       - [ ] Elevador
