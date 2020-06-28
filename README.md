@@ -14,3 +14,4 @@ Site da prova: https://olimpiada.ic.unicamp.br
       - [ ] Fuga
       - [ ] Wifi
       
+*Para testar as soluções no site da OBI é necessário mudar o nome da classe para solucao
