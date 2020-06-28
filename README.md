@@ -6,9 +6,9 @@ Site da prova: https://olimpiada.ic.unicamp.br
 ### OBI 2018
   - #### Programação nível 2
     - Fase 1
-      - [ ] Câmara de compensação
+      - [x] Câmara de compensação
       - [x] Figurinhas da copa
-      - [ ] Piso da escola
+      - [x] Piso da escola
     - Fase 2
       - [ ] Elevador
       - [ ] Fuga
